@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [BITCODE](https://bitcode.com.co) as Project Leader and Backend Developer 
 - 👨‍💻 My main stack is ASP, .NET Framework, .NET Core and SQL Server
-- 🌱 I’m currently learning Web and Mobile Development at and [UdeA](https://www.udea.edu.co/) ([MisionTIC2022](https://www.misiontic2022.gov.co/))
+- 🌱 I’m currently learning Web and Mobile Development at [UdeA](https://www.udea.edu.co/) ([MisionTIC2022](https://www.misiontic2022.gov.co/))
 - 📫 How to reach me: [Here 👋 ](https://linktr.ee/crihstianmol)
 - 😄 Pronouns: 'He/him'
 - ⚡ Fun fact: I love indie Games
