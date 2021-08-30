@@ -4,8 +4,8 @@
 ### 💻 I'm Backend Developer:
 
 - 🔭 I’m currently working at [BITCODE](https://bitcode.com.co) as Project Leader and Backend Developer 
-- 🌱 I’m currently learning Web Development at [Platzi](https://platzi.com/p/crihstianmol/) and Mobile Development with [MinTIC](https://www.mintic.gov.co/) and [UdeA](https://www.udea.edu.co/)
-- 💬 Ask me about music, programming or anything
+- 👨‍💻 My main stack is ASP, .NET Framework, .NET Core and SQL Server
+- 🌱 I’m currently learning Web and Mobile Development at and [UdeA](https://www.udea.edu.co/) ([MisionTIC2022](https://www.misiontic2022.gov.co/))
 - 📫 How to reach me: [Here 👋 ](https://linktr.ee/crihstianmol)
 - 😄 Pronouns: 'He/him'
 - ⚡ Fun fact: I love indie Games
